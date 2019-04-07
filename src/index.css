@@ -5,11 +5,11 @@ body {
   text-align: center;
   font-family: "Roboto Condensed", sans-serif;
   background: rgb(145, 11, 11);
-  background-image: url("./images/background.jpg");
+  background-image: url("./images/logo123.png");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
-  background-size: cover;
+  /* background-size: cover; */
 }
 
 h1,
